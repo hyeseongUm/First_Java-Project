@@ -41,7 +41,6 @@
 
 ## 주요 기능
 
-### 유저 기능
 | 회원가입 |로그인 |
 | ----- | ----- | 
 |<img src="https://github.com/hyeseongUm/Novel101/assets/155358391/83dc0b28-f0ed-4f4d-970b-d7339d9be40d" width="470" height="400">|  <img src="https://github.com/hyeseongUm/Novel101/assets/155358391/9a5822fe-03b6-4f58-bf18-185c8551c0c6" width="470" height="400"> |
@@ -51,7 +50,9 @@
 
 
 ### 관리자 기능
-
+- 1:1 문의 답변
+- 신고 유저 관리
+  
 <br>
 
 ## Git-Hub 브랜치
