@@ -45,7 +45,7 @@
 | 회원가입 |로그인 |
 | ----- | ----- | 
 |<img src="https://github.com/hyeseongUm/Novel101/assets/155358391/83dc0b28-f0ed-4f4d-970b-d7339d9be40d" width="470" height="400">|  <img src="https://github.com/hyeseongUm/Novel101/assets/155358391/d7372bd8-74b8-40c7-9aa6-2ac72e15e3fa" width="470" height="400"> |
-| 메인페이지</br><img src="" width="470" height="400"> | 소설등록</br><img src="https://github.com/hyeseongUm/Novel101/assets/155358391/ec0072e5-d4b3-4246-a03c-1ba1a36a16b9" width="470" height="400"> |
+| 메인페이지</br><img src="" width="470" height="400"> | 소설등록</br><img src="https://github.com/hyeseongUm/Novel101/assets/155358391/b05aa8a1-0c48-4892-8e79-df5cb3bfa005" width="470" height="400"> |
 | 댓글</br><img src="https://github.com/hyeseongUm/Novel101/assets/155358391/cd793d5c-f321-497e-bff8-60da357f4ed3" width="470" height="400"> | 좋아요 10개 이상 다음 회차 공개</br><img src="https://github.com/hyeseongUm/Novel101/assets/155358391/4f6e1f85-b830-44c3-85e8-b045df84ae44" width="470" height="400"> |
 | </br> |
 
